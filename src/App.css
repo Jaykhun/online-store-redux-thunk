@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+input, select {
+    outline: none;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    color: #262626;
+}
+
+.wrapper {
+    max-width: 1920px;
+    margin: auto;
+}
+
+.wrapper img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
